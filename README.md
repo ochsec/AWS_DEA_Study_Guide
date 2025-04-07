@@ -1,3 +1,8 @@
+**Disclaimer:** This study guide is provided "as is" for informational purposes only. The author assumes no responsibility or liability for any errors or omissions in the content, or for the results obtained from the use of this information. Use this guide at your own risk. It is recommended to consult the official AWS documentation and other resources for comprehensive exam preparation.
+
+---
+
+
 # AWS Certified Data Engineer - Associate (DEA-C01) Study Guide
 
 ## Table of Contents
